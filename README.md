@@ -1,4 +1,4 @@
-### Hola soy Lucía Varas!!  
+# ¡Hola! Soy Lucía Varas 🙋
 
 Soy estudiante de Economía en la Universidad Nacional de Córdoba, Argentina. Estoy comenzando a aprender este mundo de la programación y desarrollo web! 👩‍🎓
 <!--
