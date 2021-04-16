@@ -1,5 +1,6 @@
-### Hola soy Lucía Varas!! 
+### Hola soy Lucía Varas!!  
 
+Soy estudiante de Economía en la Universidad Nacional de Córdoba, Argentina. Estoy comenzando a aprender este mundo de la programación y desarrollo web! 👩‍🎓
 <!--
 **luvaras3/luvaras3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
