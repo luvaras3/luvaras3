@@ -1,4 +1,4 @@
- ![Alt Text](
+ ![Alt Text](https://github.com/luvaras3/Image1.git)
 # ¡Hola! Soy Lucía Varas 🌟
 
 Algún día <b> economista </b> 👩‍🎓 📊
