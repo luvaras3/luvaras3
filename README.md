@@ -1,4 +1,4 @@
-![depositphotos_24704059-stock-photo-background](https://user-images.githubusercontent.com/82509320/115076388-df344e80-9ed2-11eb-8b48-d6dcceadb780.jpg)
+![depositphotos_24704059-stock-photo-background](https://user-images.githubusercontent.com/82509320/115076595-29b5cb00-9ed3-11eb-8b8b-4530850bbe48.jpg)
 # ¡Hola! Soy Lucía Varas 🌟
 
 Algún día <b> economista </b> 👩‍🎓 📊
