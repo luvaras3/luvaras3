@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Lucía Varas!! 
 
 <!--
 **luvaras3/luvaras3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
