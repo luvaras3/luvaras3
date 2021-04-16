@@ -1,4 +1,3 @@
-<img width="279" alt="Imagen1" src="https://user-images.githubusercontent.com/82509320/115077187-050e2300-9ed4-11eb-870b-9355a54385af.png">
 # ¡Hola! Soy Lucía Varas 🌟
 
 Algún día <b> economista </b> 👩‍🎓 📊
