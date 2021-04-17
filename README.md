@@ -1,6 +1,7 @@
-# ¡Hola! Soy Lucía Varas 🌟
+# Hi! Soy Lu 🌟
 
-Algún día <b> economista </b> 👩‍🎓 📊
+Futura <b> economista </b> 👩‍🎓 📊
+Comenzando en el mundo IT. Actualmente cursando un programa Fullstack Python 
 
 <!--
 **luvaras3/luvaras3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
