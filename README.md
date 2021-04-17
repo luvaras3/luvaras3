@@ -1,7 +1,8 @@
 # Hi! Soy Lu 🌟
+![Sin título](https://user-images.githubusercontent.com/82509320/115117534-705c0180-9f75-11eb-9086-5aaeb539ffa0.jpg)
 
 Futura <b> economista </b> 👩‍🎓 📊
-Comenzando en el mundo IT. Actualmente cursando un programa Fullstack Python 
+Comenzando en el mundo IT. Actualmente cursando Fullstack Python 
 
 <!--
 **luvaras3/luvaras3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
