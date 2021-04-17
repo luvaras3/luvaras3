@@ -1,4 +1,4 @@
-# Hi! Soy Lu 🌟
+# Hi! Soy Lu 🌻
 ![Sin título](https://user-images.githubusercontent.com/82509320/115117534-705c0180-9f75-11eb-9086-5aaeb539ffa0.jpg)
 
 Futura <b> economista </b> 👩‍🎓 📊
